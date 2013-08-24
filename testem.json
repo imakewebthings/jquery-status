@@ -1,0 +1,15 @@
+{
+  "framework": "mocha",
+  "launch_in_dev": [
+    "Chrome",
+    "PhantomJS"
+  ],
+  "launch_in_ci": [
+    "PhantomJS"
+  ],
+  "src_files": [
+    "test/lib/*.js",
+    "jquery-status.js",
+    "test/spec/*.js"
+  ]
+}

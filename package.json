@@ -1,0 +1,21 @@
+{
+  "name": "jquery-status",
+  "description": "A styleless status message jQuery plugin",
+  "version": "0.0.1",
+  "author": "Caleb Troughton <caleb@imakewebthings.com>",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/imakewebthings/jquery-status.git"
+  },
+  "bugs": {
+    "url": "http://github.com/imakewebthings/jquery-status/issues"
+  },
+  "license": "MIT",
+  "scripts": {
+    "test": "./node_modules/.bin/testem ci"
+  },
+  "main": "./jquery-status.js",
+  "devDependencies": {
+    "testem": "~> 0.4.2"
+  }
+}

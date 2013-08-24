@@ -1,0 +1,16 @@
+{
+  "name": "jquery-status",
+  "version": "0.0.1",
+  "main": "jquery-status.js",
+  "description": "A styleless status message jQuery plugin",
+  "ignore": [
+    "**/.*",
+    "test",
+    "*.json",
+    "node_modules",
+    "bower_components"
+  ],
+  "dependencies": {
+    "jquery": ">= 1.6.0"
+  }
+}
